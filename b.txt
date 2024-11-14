@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 gittestando uma nova atualização
 testando att do clone
+=======
+testando uma nova atualização
+testando att do clone
+funcionalidade x y z
+>>>>>>> cab7be7cd052c8cf31c7cceb864cdafa01089046
